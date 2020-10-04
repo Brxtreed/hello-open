@@ -1,0 +1,17 @@
+//This is a kotlin hello world 
+
+val hello = "Hello"
+val world = "World"
+
+val helloWorld = "${hello} ${world}"
+
+//The following is the java version
+
+String Hello = "Hello"
+String World = "World"
+
+String HelloWorld = String()
+
+HelloWorld.append(Hello)
+HelloWorld.append(" ")
+HelloWorld.append(World)
